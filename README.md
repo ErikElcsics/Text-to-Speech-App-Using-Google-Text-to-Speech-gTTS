@@ -22,7 +22,7 @@ To run the app locally, follow these steps:
 
 1. **Clone the Repository**:
     
-    git clone https://github.com/ErikElcsics/Instant-Text-to-Speech-App.git
+    git clone https://github.com/ErikElcsics/Text-to-Speech-App-Using-Google-Text-to-Speech-gTTS.git
     cd Instant-Text-to-Speech-App
     
 
